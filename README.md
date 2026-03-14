@@ -1,2 +1,4 @@
 # Flappy-Bird
-It is a flappy bird game, control is below
+It is a Flappy Bird game. Control is below
+Space or Mouse Click: Jump
+R: Reset
